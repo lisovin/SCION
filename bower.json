@@ -1,0 +1,20 @@
+{
+  "name": "SCION",
+  "version": "0.0.10",
+  "homepage": "http://jbeard4.github.io/SCION",
+  "authors": [
+    "Jacob Beard"
+  ],
+  "description": "StateCharts Interpretation and Optimization eNgine (SCION) is an implementation of SCXML/Statecharts in JavaScript.",
+  "main": [
+    "dist/scion.min.js"
+  ],
+  "ignore": [
+    "*",
+    "!dist/*.js"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
